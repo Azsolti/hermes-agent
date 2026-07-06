@@ -1,0 +1,13 @@
+{
+  "description": "Skill bundles for the software-engineering task type. Keys are dotted task paths (task_type.specialization.framework); values are the skills loaded into the Brain AND every Hand so all agents share the same standards.",
+  "bundles": {
+    "software-engineering.full-stack.pure-html-css-js": [
+      "semantic-html",
+      "modern-css-layout",
+      "vanilla-js-patterns",
+      "responsive-design",
+      "web-accessibility",
+      "no-framework-project-structure"
+    ]
+  }
+}
